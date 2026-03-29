@@ -6,10 +6,10 @@
   },
   "credentials": [
     {
-      "username": "user123",
-      "password": "pass123",
-      "expire_date": "2026-06-30",
-      "device_limit": 1
+      "username": "UXNOTOP",
+      "password": "UX24623",
+      "expire_date": "2027-06-30",
+      "device_limit": 100
     },
     {
       "username": "vip_user",

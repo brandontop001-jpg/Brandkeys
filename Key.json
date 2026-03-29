@@ -1,4 +1,7 @@
-updates.",
+{
+  "maintenance": {
+    "enabled": false,
+    "message": "We are currently updating our servers. Please check back later. Follow us on Telegram for updates.",
     "background_color": "#FF0000"
   },
   "credentials": [
@@ -35,6 +38,11 @@ updates.",
     {
       "username": "test",
       "password": "testpass",
+      "expire_date": "2025-10-25",
+      "device_limit": 1
+    }
+  ]
+}      "password": "testpass",
       "expire_date": "2025-10-25",
       "device_limit": 1
     }
